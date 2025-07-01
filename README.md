@@ -2,7 +2,7 @@
 
 A production-ready Question Answering system that answers queries from custom documents (legal contracts, company policies, etc.) using Retrieval-Augmented Generation (RAG) with Mistral via Ollama and ChromaDB vector storage.
 
-![System Architecture](https://i.imgur.com/JtQ8X9l.png) *(Example architecture diagram - replace with your own)*
+
 
 ## Features
 
